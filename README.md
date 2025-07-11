@@ -3,15 +3,13 @@
 
 ---
 
+## 🔧 Tech Toolbox
+
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
----
-
-## 🔧 Tech Toolbox
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,java,js,react,rest,c,cpp" />
@@ -29,9 +27,6 @@
 👨🏽‍🏫 I love sharing code, mentoring devs, and contributing to the African tech ecosystem.
 
 I’m also the **Founder & CEO** of [Kwantabit Technologies](https://kwantabit.com), a company creating scalable systems in **fintech**, **healthcare**, **enterprise automation**, and **AI**.
-
----
-
 
 ---
 
