@@ -3,30 +3,29 @@
 
 ---
 
-## 🔧 Tech Toolbox
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,java,js,react,rest,c,cpp" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres,docker,linux,bash,git,vscode" />
-</p>
-
----
-
 ## 👨🏽‍💻 About Me
 
 🚀 I'm a self-driven software engineer — focused on building **real-time**, **secure**, and **intelligent** software solutions.  
 👨🏽‍🏫 I love sharing code, mentoring devs, and contributing to the African tech ecosystem.
 
 I’m also the **Founder & CEO** of [Kwantabit Technologies](https://kwantabit.com), a company creating scalable systems in **fintech**, **healthcare**, **enterprise automation**, and **AI**.
+
+---
+
+## 🔧 Tech Toolbox
+
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,java,js,react,html,css,c,cpp" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres,docker,linux,bash,git" />
+</p>
+
 
 ---
 
