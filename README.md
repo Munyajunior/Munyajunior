@@ -35,13 +35,6 @@ I’m also the **Founder & CEO** of [Kwantabit Technologies](https://kwantabit.c
 
 ---
 
-## 🕹️ Mini Game: GitHub Snake 🐍
-
-To add this, you need a GitHub Actions workflow that updates the snake grid. Follow this:  
-👉 [GitHub Snake Tutorial](https://github.com/Platane/snk)
-
-You’ll get something like this:
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
