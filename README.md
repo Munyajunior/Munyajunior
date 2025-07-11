@@ -3,9 +3,18 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c082cb37-d3bb-47f1-bef2-030de428d835" width="50%" alt="Kwantabit Banner"/>
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+## 🔧 Tech Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,java,js,react,reactnative,c,cpp,fastapi,django,mongodb,postgres,docker,linux,bash,git,vscode" />
 </p>
+
 
 ---
 
@@ -18,11 +27,6 @@ I’m also the **Founder & CEO** of [Kwantabit Technologies](https://kwantabit.c
 
 ---
 
-## 🔧 Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,java,js,react,reactnative,c,cpp,fastapi,django,mongodb,postgres,docker,linux,bash,git,vscode" />
-</p>
 
 ---
 
