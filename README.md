@@ -14,9 +14,7 @@ I’m also the **Founder & CEO** of [Kwantabit Technologies](https://kwantabit.c
 
 ## 🔧 Tech Toolbox
 
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,java,js,react,html,css,c,cpp" />
@@ -25,8 +23,6 @@ I’m also the **Founder & CEO** of [Kwantabit Technologies](https://kwantabit.c
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres,docker,linux,bash,git" />
 </p>
-
-
 
 ---
 
@@ -48,6 +44,7 @@ I’m also the **Founder & CEO** of [Kwantabit Technologies](https://kwantabit.c
 ## 💼 Let’s Work Together
 
 I’m open for:
+
 - 🔧 Freelance software development
 - 🧠 Technical mentoring or bootcamps
 - 🔐 Secure protocol integrations & backend systems
@@ -76,3 +73,11 @@ I’m open for:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Munyajunior&label=Profile%20Views&color=blue" alt="View Counter"/>
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
