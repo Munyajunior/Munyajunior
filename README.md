@@ -44,11 +44,12 @@ I’m the **Founder & CEO** of [Kwantabit Technologies](https://kwantabit.com), 
 </picture>
 
 ### 🐍 GitHub Snake Game
-
-<img src="https://raw.githubusercontent.com/Munyajunior/Munyajunior/output/snake.svg" alt="GitHub Snake animation" /> -->
-<p align="center">
+ 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+</p>-->
+
+<img src="https://raw.githubusercontent.com/Munyajunior/Munyajunior/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake animation" />
+<p align="center">
 
 ---
 
