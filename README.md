@@ -35,7 +35,7 @@ I’m the **Founder & CEO** of [Kwantabit Technologies](https://kwantabit.com), 
 
 ## 🟨 Contribution Animations
 
-### 🕹️ Pac-Man Contribution Tracker
+<!-- ### 🕹️ Pac-Man Contribution Tracker
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Munyajunior/Munyajunior/output/pacman-contribution-graph-dark.svg">
@@ -45,7 +45,10 @@ I’m the **Founder & CEO** of [Kwantabit Technologies](https://kwantabit.com), 
 
 ### 🐍 GitHub Snake Game
 
-<img src="https://raw.githubusercontent.com/Munyajunior/Munyajunior/output/snake.svg" alt="GitHub Snake animation" />
+<img src="https://raw.githubusercontent.com/Munyajunior/Munyajunior/output/snake.svg" alt="GitHub Snake animation" /> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
