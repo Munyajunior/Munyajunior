@@ -8,13 +8,18 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+
 ---
+
 ## 🔧 Tech Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,java,js,react,rest,c,cpp,fastapi,mongodb,postgres,docker,linux,bash,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,js,react,rest,c,cpp" />
 </p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres,docker,linux,bash,git,vscode" />
+</p>
 
 ---
 
