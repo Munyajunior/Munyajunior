@@ -43,13 +43,18 @@ I’m the **Founder & CEO** of [Kwantabit Technologies](https://kwantabit.com), 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Munyajunior/Munyajunior/output/pacman-contribution-graph.svg">
 </picture>
 
-### 🐍 SNAKE Contribution Tracker
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Munyajunior/Munyajunior/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Munyajunior/Munyajunior/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Munyajunior/Munyajunior/output/github-contribution-grid-snake.svg">
-</picture>
+[//]: # (### 🐍 SNAKE Contribution Tracker)
+
+[//]: # ( )
+[//]: # (<picture>)
+
+[//]: # (  <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/Munyajunior/Munyajunior/output/github-contribution-grid-snake-dark.svg">)
+
+[//]: # (  <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/Munyajunior/Munyajunior/output/github-contribution-grid-snake.svg">)
+
+[//]: # (  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Munyajunior/Munyajunior/output/github-contribution-grid-snake.svg">)
+
+[//]: # (</picture>)
 
 ---
 
